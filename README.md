@@ -41,4 +41,9 @@ Contributions are welcome! Feel free to submit pull requests to improve function
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Screenshots
-
+<p align="center">
+<img src="res/sc1.png" height="400"/>
+<img src="res/sc2.png" height="400"/>
+<img src="res/sc3.png" height="400"/>
+<img src="res/sc4.png" height="400"/>
+</p>
